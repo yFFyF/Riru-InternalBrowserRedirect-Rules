@@ -1,0 +1,14 @@
+{
+  "tag": "Bilibili",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://extra/url/url",
+      "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    }
+  ]
+}
