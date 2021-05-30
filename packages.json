@@ -1,6 +1,10 @@
 {
   "packages": [
     {
+      "packageName": "com.coolapk.market",
+      "version": 1
+    },
+    {
       "packageName": "com.tencent.tim",
       "version": 2
     },
