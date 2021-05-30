@@ -1,7 +1,8 @@
 {
   "rules": [
     {
-      "url-source": "intent://extra/extra_bundle/external_url/url",
+      "tag": "default",
+	  "url-source": "intent://extra/extra_bundle/external_url/url",
     }
   ]
 }
