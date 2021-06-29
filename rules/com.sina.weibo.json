@@ -4,6 +4,14 @@
   "rules": [
     {
       "tag": "default",
+      "url-source": "intent://data",
+      "url-filter": {
+        "ignore": ".*weibo\\.(cn|com).*",
+        "force": ""
+      }
+    },
+    {
+      "tag": "全文",
       "url-source": "intent://data/url",
       "url-filter": {
         "ignore": ".*weibo\\.(cn|com).*",
