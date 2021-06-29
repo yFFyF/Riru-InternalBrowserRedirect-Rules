@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://data/url",
       "url-filter": {
-        "ignore": ".*weibo\.(cn|com).*",
+        "ignore": ".*weibo\\.(cn|com).*",
         "force": ""
       }
     }
