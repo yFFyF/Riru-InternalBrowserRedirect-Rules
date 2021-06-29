@@ -1,6 +1,10 @@
 {
   "packages": [
     {
+      "packageName": "com.sina.weibo",
+      "version": 1
+    },
+    {
       "packageName": "com.coolapk.market",
       "version": 1
     },
