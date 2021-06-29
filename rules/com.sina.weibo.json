@@ -1,0 +1,14 @@
+{
+  "tag": "weibo",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://data/url",
+      "url-filter": {
+        "ignore": ".*weibo\.(cn|com).*",
+        "force": ""
+      }
+    }
+  ]
+}
