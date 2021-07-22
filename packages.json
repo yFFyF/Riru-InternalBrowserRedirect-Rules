@@ -1,6 +1,10 @@
 {
   "packages": [
     {
+      "packageName": "com.forfan.bigbang",
+      "version": 1
+    },
+    {
       "packageName": "com.sina.weibo",
       "version": 1
     },
