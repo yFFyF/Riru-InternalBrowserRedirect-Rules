@@ -1,0 +1,14 @@
+{
+  "tag": "bigbang",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "网址",
+      "url-source": "intent://extra/url",
+      "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    }
+  ]
+}
