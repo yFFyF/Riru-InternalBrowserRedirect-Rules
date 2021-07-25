@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://extra/rawUrl",
       "url-filter": {
-        "ignore": ".*qq\\.com/.*",
+        "ignore": "(wx\\.tenpay|.*qq)\\.com/.*",
         "force": ""
       }
     },
