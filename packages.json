@@ -1,6 +1,10 @@
 {
   "packages": [
     {
+      "packageName": "com.baidu.tieba",
+      "version": 1
+    },
+    {
       "packageName": "com.forfan.bigbang",
       "version": 1
     },
