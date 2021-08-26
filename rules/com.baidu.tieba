@@ -1,0 +1,14 @@
+{
+  "tag": "tieba",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+	  "url-source": "intent://extra/tag_url/url",
+	  "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    }
+  ]
+}
