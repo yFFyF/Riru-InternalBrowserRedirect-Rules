@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://extra/url",
       "url-filter": {
-        "ignore": ".*(qq|myun\\.tenpay)\\.com/[\s\S]*",
+        "ignore": ".*(qq|myun\\.tenpay)\\.com/[\\s\\S]*",
         "force": "(http|https)://(.*weixin\\.qq\\.com)/.*"
       }
     }
