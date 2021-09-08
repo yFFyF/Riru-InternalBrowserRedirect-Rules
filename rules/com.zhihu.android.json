@@ -1,0 +1,14 @@
+{
+  "tag": "zhihu",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+	  "url-source": "intent://data/zh_url/target",
+	  "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    }
+  ]
+}
