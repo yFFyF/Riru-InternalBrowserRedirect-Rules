@@ -1,6 +1,10 @@
 {
   "packages": [
     {
+      "packageName": "com.taobao.taobao",
+      "version": 1
+    },
+    {
       "packageName": "com.zhihu.android",
       "version": 1
     },
