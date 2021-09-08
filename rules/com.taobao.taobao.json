@@ -1,0 +1,14 @@
+{
+  "tag": "taobao",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "default",
+      "url-source": "intent://data",
+      "url-filter": {
+        "ignore": ".*(taobao|tmall|duanqu)\\.com.*",
+        "force": ""
+      }
+    }
+  ]
+}
