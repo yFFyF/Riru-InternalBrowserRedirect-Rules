@@ -1,6 +1,10 @@
 {
   "packages": [
     {
+      "packageName": "com.zhihu.android",
+      "version": 1
+    },
+    {
       "packageName": "com.baidu.tieba",
       "version": 1
     },
