@@ -4,7 +4,7 @@
   "rules": [
     {
       "tag": "default",
-      "url-source": "intent://extra/url/url",
+      "url-source": "intent://extra/arg_safe_check_params/url",
       "url-filter": {
         "ignore": "",
         "force": ""
