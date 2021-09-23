@@ -14,7 +14,7 @@
       "tag": "QRScanner",
       "url-source": "intent://extra/rawUrl/url",
       "url-filter": {
-        "ignore": "(mcsp.cloudpnr|.*qq)\\.com/.*",
+        "ignore": ".*((cloudpnr|qq)\\.com|mplink\\.cn)/.*",
         "force": ""
       }
     }
