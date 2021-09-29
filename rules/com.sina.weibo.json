@@ -17,6 +17,14 @@
         "ignore": ".*weibo\\.(cn|com).*",
         "force": ""
       }
+    },
+    {
+      "tag": "外链白名单",
+      "url-source": "intent://data/toasturl",
+      "url-filter": {
+        "ignore": ".*weibo\\.(cn|com).*",
+        "force": ""
+      }
     }
   ]
 }
