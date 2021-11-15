@@ -4,8 +4,16 @@
   "rules": [
     {
       "tag": "default",
-	  "url-source": "intent://extra/extra_bundle/external_url/url",
-	  "url-filter": {
+      "url-source": "intent://extra/extra_bundle/external_url/url",
+      "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    },
+    {
+      "tag": "应用集",
+      "url-source": "intent://extra/extra_bundle/external_url",
+      "url-filter": {
         "ignore": "",
         "force": ""
       }
