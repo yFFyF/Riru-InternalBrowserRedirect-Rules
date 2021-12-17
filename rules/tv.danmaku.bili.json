@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://data",
       "url-filter": {
-        "ignore": ".*(bilibili\\.com|b23\\.tv).*",
+        "ignore": ".*(bilibili\\.com|b23\\.tv|biligame\\.com).*",
         "force": ""
       }
     }
