@@ -7,7 +7,7 @@
       "url-source": "intent://extra/rawUrl",
       "url-filter": {
         "ignore": ".*((tenpay|qq)\\.com|mplink\\.cn).*",
-        "force": ""
+        "force": ".*wx\\.mail\\.qq\\.com.*"
       }
     },
     {
