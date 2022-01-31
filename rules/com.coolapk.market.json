@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://extra/extra_bundle/external_url/url",
       "url-filter": {
-        "ignore": "",
+        "ignore": ".*coolapk\\.com.*",
         "force": ""
       }
     },
