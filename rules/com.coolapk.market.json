@@ -14,7 +14,7 @@
       "tag": "应用集",
       "url-source": "intent://extra/extra_bundle/external_url",
       "url-filter": {
-        "ignore": "",
+        "ignore": ".*coolapk\\.com.*",
         "force": ""
       }
     }
