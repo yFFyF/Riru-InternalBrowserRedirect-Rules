@@ -9,6 +9,14 @@
         "ignore": ".*(qq|myun\\.tenpay)\\.com/[\\s\\S]*",
         "force": "(http|https)://(.*weixin\\.qq\\.com)/.*"
       }
+    },
+    {
+      "tag": "channel",
+      "url-source": "intent://extra/url/url",
+      "url-filter": {
+        "ignore": ".*(qq|myun\\.tenpay)\\.com/[\\s\\S]*",
+        "force": "(http|https)://(.*weixin\\.qq\\.com)/.*"
+      }
     }
   ]
 }
