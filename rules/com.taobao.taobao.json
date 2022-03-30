@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://data",
       "url-filter": {
-        "ignore": ".*((taobao|tmall|duanqu|cainiao)\\.com|tb\\.cn|message).*",
+        "ignore": ".*((taobao|tmall|duanqu|cainiao|alipay)\\.com|tb\\.cn|message).*",
         "force": ""
       }
     }
