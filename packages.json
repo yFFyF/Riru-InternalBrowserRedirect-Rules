@@ -1,6 +1,10 @@
 {
   "packages": [
     {
+      "packageName": "com.baidu.input",
+      "version": 1
+    },
+    {
       "packageName": "com.taobao.taobao",
       "version": 1
     },
