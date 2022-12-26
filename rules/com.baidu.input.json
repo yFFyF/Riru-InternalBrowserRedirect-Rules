@@ -1,0 +1,14 @@
+{
+  "tag": "baiduime",
+  "authors": "Kr328",
+  "rules": [
+    {
+      "tag": "clipboard",
+	  "url-source": "intent://extra/browse_keyword",
+	  "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
+    }
+  ]
+}
