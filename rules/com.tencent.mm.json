@@ -9,14 +9,6 @@
         "ignore": ".*((tenpay|qq|washpayer|tencentwm|weixinbridge)\\.com|mplink\\.cn).*",
         "force": ".*wx\\.mail\\.qq\\.com.*"
       }
-    },
-    {
-      "tag": "QRScanner",
-      "url-source": "intent://extra/rawUrl/url",
-      "url-filter": {
-        "ignore": ".*((cloudpnr|qq)\\.com|mplink\\.cn)/.*",
-        "force": ""
-      }
     }
   ]
 }
