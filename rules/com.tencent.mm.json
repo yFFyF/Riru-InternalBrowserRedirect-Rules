@@ -9,6 +9,14 @@
         "ignore": ".*((tenpay|qq|washpayer|tencentwm|weixinbridge)\\.com|mplink\\.cn).*",
         "force": ".*wx\\.mail\\.qq\\.com.*"
       }
+    },
+    {
+      "tag": "1",
+      "url-source": "intent://extra/key_string_for_scan",
+      "url-filter": {
+        "ignore": "",
+        "force": ""
+      }
     }
   ]
 }
