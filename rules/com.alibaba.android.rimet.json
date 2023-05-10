@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://extra/url",
       "url-filter": {
-        "ignore": ".*dingtalkapps\\.com/.*",
+        "ignore": ".*(dingtalk|dingtalkapps)\\.com/.*",
         "force": ""
       }
     }
