@@ -6,7 +6,7 @@
       "tag": "channel",
       "url-source": "intent://extra/url/url",
       "url-filter": {
-        "ignore": ".*(qq|myun\\.tenpay)\\.com/[\\s\\S]*",
+        "ignore": ".*(qq|tenpay)\\.com/[\\s\\S]*",
         "force": "(http|https)://(.*weixin\\.qq\\.com)/.*"
       }
     },
@@ -14,7 +14,7 @@
       "tag": "default",
       "url-source": "intent://extra/url",
       "url-filter": {
-        "ignore": ".*((qq|myun\\.tenpay)\\.com|ftn_handler|:8080)/[\\s\\S]*",
+        "ignore": ".*((qq|tenpay)\\.com|ftn_handler|:8080)/[\\s\\S]*",
         "force": "(http|https)://(.*weixin\\.qq\\.com)/.*"
       }
     }
