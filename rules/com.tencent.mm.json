@@ -6,7 +6,7 @@
       "tag": "default",
       "url-source": "intent://extra/rawUrl",
       "url-filter": {
-        "ignore": ".*((tenpay|qq|washpayer|tencentwm|weixinbridge)\\.com|(wechatpay|mplink)\\.cn).*",
+        "ignore": ".*((servicewechat|tenpay|qq|washpayer|tencentwm|weixinbridge)\\.com|(wechatpay|mplink)\\.cn).*",
         "force": ".*wx\\.mail\\.qq\\.com.*"
       }
     },
